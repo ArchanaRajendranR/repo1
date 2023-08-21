@@ -3,3 +3,4 @@ Sugar
 Water
 Ice cubes
 Knife
+salt
